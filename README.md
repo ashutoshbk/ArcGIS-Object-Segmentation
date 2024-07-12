@@ -1,4 +1,4 @@
-# ArcGIS-Object-Segmentation
+# ArcGIS Object Segmentation
 
 ![Project Image](example.png)
 
