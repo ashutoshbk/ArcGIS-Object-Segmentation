@@ -1,5 +1,7 @@
 # ArcGIS-Object-Segmentation
 
+![Project Image](example.png)
+
 ## Overview
 This project focuses on integrating custom object detection capabilities directly within the ArcGIS environment. The objective is to enhance geospatial analysis by leveraging machine learning techniques for precise object detection and segmentation in satellite and aerial imagery.
 
